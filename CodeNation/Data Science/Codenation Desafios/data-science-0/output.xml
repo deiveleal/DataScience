@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="1" failures="0" hostname="deive-Lenovo-G400s" name="pytest" skipped="0" tests="1" time="0.217" timestamp="2020-05-06T23:19:49.912304"><testcase classname="" file="test_submit.py" name="test_submit" time="0.000"><error message="collection failure">../../Anaconda/lib/python3.7/site-packages/_pytest/python.py:513: in _importtestmodule
+    mod = self.fspath.pyimport(ensuresyspath=importmode)
+../../Anaconda/lib/python3.7/site-packages/py/_path/local.py:701: in pyimport
+    __import__(modname)
+&lt;frozen importlib._bootstrap&gt;:983: in _find_and_load
+    ???
+&lt;frozen importlib._bootstrap&gt;:967: in _find_and_load_unlocked
+    ???
+&lt;frozen importlib._bootstrap&gt;:677: in _load_unlocked
+    ???
+../../Anaconda/lib/python3.7/site-packages/_pytest/assertion/rewrite.py:152: in exec_module
+    exec(co, module.__dict__)
+test_submit.py:1: in &lt;module&gt;
+    from main import *
+E     File &quot;/home/deive/codenation/data-science-0/main.py&quot;, line 308
+E       return commom_value[]
+E                           ^
+E   SyntaxError: invalid syntax</error></testcase></testsuite></testsuites>
