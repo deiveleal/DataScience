@@ -1,4 +1,4 @@
-# Programa de cursos integrados de data science com python
+# Programa de cursos integrados de data science com python da Michigan University através do Coursera
 
 The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. 
 This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, 
